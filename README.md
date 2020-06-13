@@ -3,8 +3,8 @@
 Challenge iOS -  Venturus
 <br>
 <p align="center">
-<img src="ScreenShot/Launch.png" width="170" height="315"/>    
-<img src="ScreenShot/Home.png" width="170" height="315"/>   
+<img src="Cats/ScreenShot/Launch.png" width="170" height="315"/>    
+<img src="Cats/ScreenShot/Home.png" width="170" height="315"/>   
 </p>
 
 ## 📖 O que foi abordado neste projeto?
